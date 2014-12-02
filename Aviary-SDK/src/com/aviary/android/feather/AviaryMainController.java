@@ -373,7 +373,7 @@ public final class AviaryMainController implements IAviaryController, OnPreviewL
 	 */
 	public void activateTool( final ToolEntry tag, Bundle options ) {
 		if ( !getEnabled() || !isClosed() || mBitmap == null ) return;
-
+		
 		if ( mCurrentEffect != null ) throw new IllegalStateException( "There is already an active effect. Cannot activate new" );
 		if ( mPanelCreatorService == null ) mPanelCreatorService = (AbstractPanelLoaderService) getService( AbstractPanelLoaderService.class );
 

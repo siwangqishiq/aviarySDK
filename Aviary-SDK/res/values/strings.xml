@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="feather_illuminate">Illuminate</string>
+	<string name="feather_illuminate">照亮</string>
 	<string name="feather_details">Details</string>
 	<string name="feather_tool">Tool</string>
 	<string name="feather_notification_restore_all_completed">Restore All Completed</string>
@@ -47,7 +47,7 @@
 	<string name="feather_effect_loading_message">Applying effects</string>
 	<string name="feather_iap_error">Error</string>
 	<string name="feather_stickers_dialog_first_time">Install Aviary\'s free pack of beautiful high resolution stickers to get started.</string>
-	<string name="feather_hidef">Hi-Def</string>
+	<string name="feather_hidef">高清</string>
 	<string name="feather_message_button_yes">Sure!</string>
 	<string name="feather_iap_failed_download_previews">Failed to download the previews</string>
 	<string name="feather_yes_leave">Leave editor</string>
@@ -62,7 +62,7 @@
 	<string name="feather_acc_increase_value">Increase value</string>
 	<string name="feather_confirm">Confirm</string>
 	<string name="feather_iap_restore_all_in_progress">Restore All in Progress</string>
-	<string name="feather_shapes">Shapes</string>
+	<string name="feather_shapes">形状</string>
 	<string name="feather_text">Text</string>
 	<string name="feather_plugin_error_storage_not_available">Failed to copy the plugin inside the device storage</string>
 	<string name="feather_effects_error_update_packs">One or more installed effect packs need to be updated. Tap \&quot;update\&quot; to update them all in Google Play. Alternatively, you can click any effect thumbnail marked with an update icon to update the pack it came from in Google Play.</string>
@@ -76,7 +76,7 @@
 	<string name="feather_send_feedback">Send Feedback</string>
 	<string name="feather_iap_owned">Installed</string>
 	<string name="feather_iap_failed_download_informations">Failed to download the required informations</string>
-	<string name="feather_colorfix">Color Fix</string>
+	<string name="feather_colorfix">颜色修复</string>
 	<string name="feather_notification_some_items_cant_be_restored">Some items could not be restored</string>
 	<string name="feather_tool_colorsplash">Splash</string>
 	<string name="feather_item_not_found">Item not found</string>

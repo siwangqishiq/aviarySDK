@@ -2,10 +2,10 @@
  * AVIARY API TERMS OF USE
  * Full Legal Agreement
  * The following terms and conditions and the terms and conditions at
- * http://www.aviary.com/terms (collectively, the “Terms”) govern your use
+ * http://www.aviary.com/terms (collectively, the 鈥淭erms鈥� govern your use
  * of any and all data, text, software, tools, documents and other materials
  * associated with the application programming interface offered by Aviary, Inc.
- * (the "API"). By clicking on the “Accept” button, OR BY USING OR ACCESSING
+ * (the "API"). By clicking on the 鈥淎ccept鈥�button, OR BY USING OR ACCESSING
  * ANY PORTION OF THE API, you or the entity or company that you represent are
  * unconditionally agreeing to be bound by the terms, including those available
  * by hyperlink from within this document, and are becoming a party to the
@@ -23,7 +23,7 @@
  * agreement ("Agreement"), Aviary, Inc. ("Aviary") grants Licensee a
  * non-exclusive, revocable, nonsublicensable, nontransferable license to
  * download and use the API solely to embed a launchable Aviary application
- * within Licensee’s mobile or website application (“App”) and to access
+ * within Licensee鈥檚 mobile or website application (鈥淎pp鈥� and to access
  * data from Aviary in connection with such application. Licensee may not
  * install or use the API for any other purpose without Aviary's prior written
  * consent.
@@ -55,7 +55,7 @@
  * whenever the API is displayed to the end user. (c) it may not otherwise use
  * the Aviary logo without specific written permission from Aviary; and (d) any
  * use of the Aviary logo on an App page shall be less prominent than the logo
- * or mark that primarily describes the Licensee website, and Licensee’s use
+ * or mark that primarily describes the Licensee website, and Licensee鈥檚 use
  * of the Aviary logo shall not imply any endorsement of the Licensee website by
  * Aviary.
  * 
@@ -98,7 +98,7 @@
  * reviewing and becoming familiar with any such modification. Such
  * modifications are effective upon first posting or notification and use of the
  * Aviary API by Licensee following any such notification constitutes
- * Licensee’s acceptance of the terms and conditions of this Agreement as
+ * Licensee鈥檚 acceptance of the terms and conditions of this Agreement as
  * modified.
  * 
  * We may update this agreement from time to time, as needed. We don't
@@ -1852,7 +1852,7 @@ public class FeatherActivity extends MonitoredActivity implements OnToolbarClick
 						public void run() {
 							// mark the badge for this tool as read
 							// ( (AviaryBadgeToolLayout) view ).markAsRead();
-
+							ToolEntry s = (ToolEntry) tag;
 							mMainController.activateTool( (ToolEntry) tag );
 						}
 					}, TOOLS_OPEN_DELAY_TIME );
